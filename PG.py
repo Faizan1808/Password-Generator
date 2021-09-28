@@ -11,7 +11,7 @@ lower = string.ascii_lowercase
 upper = string.ascii_uppercase
 
 num = string.digits
-
+print(num)
 symbols = string.punctuation
 
 all = lower +upper + num + symbols
